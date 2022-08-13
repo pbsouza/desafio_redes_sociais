@@ -8,7 +8,7 @@ body {
 nav {
     position: absolute;
     top: 5%;
-    left: 85%;
+    left: 90%;
 }
 
 nav > a {
@@ -19,7 +19,7 @@ nav > a {
 nav img {
     border-radius: 50%;
     max-width: 8vh;
-    min-width: 35px;
+    min-width: 25px;
 }
 
 nav img:hover {
