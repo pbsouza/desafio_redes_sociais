@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background:black url(../imagens/fundo-madeira.jpg) no-repeat fixed;
+    background:black url(../imagens/fundo-madeira.jpg) center no-repeat fixed;
     background-size: cover;
 }
 
@@ -19,7 +19,7 @@ nav > a {
 nav img {
     border-radius: 50%;
     max-width: 8vh;
-    min-width: 50px;
+    min-width: 35px;
 }
 
 nav img:hover {
