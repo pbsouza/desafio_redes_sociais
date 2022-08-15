@@ -20,10 +20,13 @@ nav img {
     border-radius: 50%;
     max-width: 8vh;
     min-width: 25px;
+    box-sizing: border-box;
 }
 
 nav img:hover {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.479);
+    transform: translate(-3px, -3px);
+    border: 1px solid white;
 }
 
 img#celular {
