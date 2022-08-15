@@ -27,6 +27,7 @@ nav img:hover {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.479);
     transform: translate(-3px, -3px);
     border: 1px solid white;
+    transition: transform .3s, border .4s;
 }
 
 img#celular {
